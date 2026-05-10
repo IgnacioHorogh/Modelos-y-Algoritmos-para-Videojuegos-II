@@ -58,7 +58,7 @@ void UpdateGame() {
     while (!WindowShouldClose())
     {
 
-        world.Step(2.5f / 60.0f, 8, 3);
+        world.Step(1.0f / 50.0f, 8, 3);
         DrawGame();
 
 

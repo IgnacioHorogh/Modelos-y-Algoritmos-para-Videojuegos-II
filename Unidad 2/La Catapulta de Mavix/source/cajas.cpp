@@ -12,7 +12,7 @@
 
 std::vector<PhysicsBox> boxes;
 
-float impulsoX = 300000.0f;
+float impulsoX = 400000.0f;
 float impulsoY = -1000000.0f;
 
 
