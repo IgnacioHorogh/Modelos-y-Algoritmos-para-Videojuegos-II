@@ -202,7 +202,7 @@ void Joints() {
 void Instrucciones(Color textoPrincipal,Color textoSecundario) {
 	DrawText("- Instrucciones:", 10, 15, 28, textoPrincipal);
 	DrawText("- Utiliza las flechas para moverte de <- izquierda  a derecha ->.", 10, 55, 22, textoSecundario);
-	DrawText("- Oprimera la tecla ESPACIO para realizar saltos.", 10, 90, 22, textoSecundario);
+	DrawText("- Oprime la tecla ESPACIO para realizar saltos.", 10, 90, 22, textoSecundario);
 	DrawText("- Si deseas reiniciar la ubicacion de tu personaje usa la R .", 10, 125, 22, textoSecundario);
 	DrawText("- Para abandonar el juego oprime la tecla ESC .", 10, 155, 22, textoSecundario);
 }
